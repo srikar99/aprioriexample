@@ -306,6 +306,7 @@ public class Apriori extends Observable {
 		}
  
         //new candidates are only the frequent candidates
+	//editing this file
         itemsets = frequentCandidates;
     }
 }
