@@ -16,7 +16,7 @@ import java.util.*;
  *   $ java Apriori.Apriori /tmp/data.dat 0.8 > frequent-itemsets.txt
  *   
  * Usage as library: see {@link ExampleOfClientCodeOfApriori}
- * 
+ * making changes to test
  * */
 public class Apriori extends Observable {
  
